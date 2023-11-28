@@ -1,1 +1,1 @@
-# business-insight-ui-collection
+# nui
